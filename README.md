@@ -32,7 +32,7 @@ Do not use the app to create illegal content, sexual content involving minors, d
 
 ## Support
 
-Questions, bugs, or requests: open an [Issue](../../issues) or email **[[talbimaamoune9@gmail.com](mailto:talbimaamoune9@gmail.com)]**
+Questions, bugs, or requests: open an [Issue](https://github.com/talbimaamoune9-lang/megastudio-ai/issues) or email **[[talbimaamoune9@gmail.com](mailto:talbimaamoune9@gmail.com)]**
 
 ## Publisher
 
