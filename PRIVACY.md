@@ -2,8 +2,7 @@
 
 *Last updated: October 29, 2026*
 
-MEGASTUDIO AI ("the App", "we") is a Windows desktop application for AI chat, a coding agent, and image and video generation. This policy explains what data the App handles and where it goes. Publisher: **megastudioai**. Contact: **[[talbimaamoune9@gmail.com](mailto:your-email@example.com)]**
-
+MEGASTUDIO AI ("the App", "we") is a Windows desktop application for AI chat, a coding agent, and image and video generation. This policy explains what data the App handles and where it goes. Publisher: **megastudioai**. Contact: **[[talbimaamoune9@gmail.com]
 ## 1. Summary
 
 - The App has no user accounts and does not require you to sign up.
