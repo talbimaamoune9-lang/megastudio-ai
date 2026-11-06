@@ -14,7 +14,7 @@ A Windows desktop studio for **AI chat**, a **coding agent**, and **image & vide
 
 ## Download
 
-Get it from the Microsoft Store: **[Store link, add after publishing]**
+Get it from the Microsoft Store: **[[Store link, add after publishing](https://apps.microsoft.com/detail/9NPQLMP1FQBC?hl=en-us&gl=DZ&ocid=pdpshare)]**
 
 ## Privacy
 
@@ -32,7 +32,7 @@ Do not use the app to create illegal content, sexual content involving minors, d
 
 ## Support
 
-Questions, bugs, or requests: open an [Issue](https://github.com/talbimaamoune9-lang/megastudio-ai/issues) or email **[[megastudioai@gmail.com](mailto:megastudioai@gmail.com)]**
+Questions, bugs, or requests: open an [Issue]([[https://github.com/talbimaamoune9-lang/megastudio-ai/issues](https://megastudioai.com/)) or email **[[contact@megastudioai.com](contact@megastudioai.com)]**
 
 ## Publisher
 
