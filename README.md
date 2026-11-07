@@ -2,7 +2,7 @@
 
 A Windows desktop studio for **AI chat**, a **coding agent**, and **image & video generation**, working with both local engines (Ollama, ComfyUI, LM Studio) and cloud providers.
 
-> Version 1.0 · Windows 10 (1809+) / Windows 11 · x64, x86, ARM64
+> Version 1.2.2 · Windows 10 (1809+) / Windows 11 · x64, x86, ARM64
 
 ## Features
 
